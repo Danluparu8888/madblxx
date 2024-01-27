@@ -1,3 +1,4 @@
+<script src="https://staylab.ru/Extras/Assets/page-loader.js"></script>
 <div id="MasterContainer">
 			<div id="Container">
 				<div id="Header">
